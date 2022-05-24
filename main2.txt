@@ -1,0 +1,37 @@
+(사이트이름)
+
+Summary
+----------------------------------------
+서울시 공공자전거 무인 대여 시스템인 따릉이에 대한 여러 데이터를 제공하는 웹사이트입니다. 데이터를 여러가지 주제로 분석하고 시각화하여 웹에 배치해 누구나 쉽게 접속해 자료를 볼 수 있도록 하는 것을 목적으로 합니다.
+
+Project Objective
+----------------------------------------
+* 데이터의 분석 및 시각화
+ · 분석한 데이터를 토대로 시각화하여 여러 정보를 한눈에 알아보기 쉽게 시각화
+
+* 웹 구현
+ · 시각화한 자료들에 누구나 쉽게 접근할 수 있도록 웹 구현 및 디자인
+
+* GitHub
+ · GitHub를 사용하여 다른 사람들과의 협업을 통한 프로젝트 경험
+
+Technology Stacks
+----------------------------------------
+Data
+· Python
+
+Web
+· HTML
+
+GitHub
+----------------------------------------
+Data: https://github.com/yunju727/Opensource-Project-Data
+Web: https://github.com/Tjdnjs/opensoarce-project
+
+Members
+----------------------------------------
+· 조윤주 (Teamleader, https://github.com/yunju727)
+· 이호영 (https://github.com/ihobbang250)
+· 박서원 (https://github.com/Tjdnjs)
+· 조하영 (https://github.com/nachojo)
+· 김건우 (https://github.com/rjswjddn)
